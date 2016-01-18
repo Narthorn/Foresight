@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Forms>
+    <Form Class="WorldFixedWindow" LAnchorPoint="0" LAnchorOffset="0" TAnchorPoint="0" TAnchorOffset="0" RAnchorPoint="1" RAnchorOffset="0" BAnchorPoint="1" BAnchorOffset="0" RelativeToClient="0" Font="Default" Text="" TooltipType="OnCursor" Template="Default" Border="0" Picture="0" SwallowMouseClicks="1" Moveable="0" Escapable="0" Overlapped="0" BGColor="ffffffff" TextColor="ffffffff" IgnoreMouse="1" Visible="1" TransitionShowHide="0" Name="Overlay" TooltipColor="" Tooltip=""/>
+    <Form Class="WorldFixedWindow" LAnchorPoint="SELF" LAnchorOffset="0" TAnchorPoint="SELF" TAnchorOffset="0" RAnchorPoint="SELF" RAnchorOffset="0" BAnchorPoint="SELF" BAnchorOffset="0" RelativeToClient="1" Font="Default" Text="" TooltipType="OnCursor" Template="Default" Border="0" Picture="0" SwallowMouseClicks="1" Moveable="0" Escapable="0" Overlapped="1" BGColor="ffffffff" TextColor="ffffffff" IgnoreMouse="1" Visible="0" TransitionShowHide="0" Name="OnScreenTracker" TooltipColor=""/>
+</Forms>

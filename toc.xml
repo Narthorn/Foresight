@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Vim" APIVersion="10" Name="Foresight" Description="" Version="">
+    <Script Name="Foresight.lua"/>
+    <Form Name="Foresight.xml"/>
+    <ReplaceAddon Name="Aileron"/>
+</Addon>
